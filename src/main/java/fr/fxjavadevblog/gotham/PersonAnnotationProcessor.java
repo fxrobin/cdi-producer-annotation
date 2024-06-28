@@ -1,4 +1,4 @@
-package fr.fxjavadevblog;
+package fr.fxjavadevblog.gotham;
 
 import jakarta.enterprise.inject.Produces;
 import jakarta.enterprise.inject.spi.InjectionPoint;

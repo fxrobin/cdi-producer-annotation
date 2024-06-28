@@ -1,4 +1,4 @@
-package fr.fxjavadevblog;
+package fr.fxjavadevblog.gotham;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;

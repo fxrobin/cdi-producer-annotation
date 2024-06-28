@@ -1,4 +1,4 @@
-package fr.fxjavadevblog;
+package fr.fxjavadevblog.gotham;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import lombok.Getter;
